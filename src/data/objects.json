@@ -1,0 +1,92 @@
+[
+	{
+		"id": "1",
+		"type": "A",
+		"price": 21194,
+		"promotionPrice": 20894
+	},
+	{
+		"id": "2",
+		"type": "B",
+		"price": 23894,
+		"promotionPrice": 22894
+	},
+	{
+		"id": "3",
+		"type": "C",
+		"price": 25999,
+		"promotionPrice": 25894
+	},
+	{
+		"id": "4",
+		"type": "B",
+		"price": 25999,
+		"promotionPrice": 25894
+	},
+	{
+		"id": "5",
+		"type": "A",
+		"price": 26999,
+		"promotionPrice": 26894
+	},
+	{
+		"id": "6",
+		"type": "C",
+		"price": 27994,
+		"promotionPrice": 27094
+	},
+	{
+		"id": "7",
+		"type": "B",
+		"price": 26999,
+		"promotionPrice": 26894
+	},
+	{
+		"id": "8",
+		"type": "A",
+		"price": 27999,
+		"promotionPrice": 27094
+	},
+	{
+		"id": "9",
+		"type": "B",
+		"price": 26994,
+		"promotionPrice": 26894
+	},
+	{
+		"id": "10",
+		"type": "B",
+		"price": 27199,
+		"promotionPrice": 27094
+	},
+	{
+		"id": "11",
+		"type": "B",
+		"price": 30994,
+		"promotionPrice": 30094
+	},
+	{
+		"id": "12",
+		"type": "A",
+		"price": 24999,
+		"promotionPrice": 0
+	},
+	{
+		"id": "13",
+		"type": "C",
+		"price": 21199,
+		"promotionPrice": 0
+	},
+	{
+		"id": "14",
+		"type": "B",
+		"price": 39999,
+		"promotionPrice": 0
+	},
+	{
+		"id": "15",
+		"type": "B",
+		"price": 25100,
+		"promotionPrice": 0
+	}
+]
