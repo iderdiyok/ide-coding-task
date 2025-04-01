@@ -7,7 +7,7 @@ const DELAY = 5000;
 export const fetchProducts = async (): Promise<Product[]> => {
   return new Promise((resolve) => {
     setTimeout(() => {
-      resolve(products.products);
+      resolve(Array.isArray(products) ? products : []);
     }, DELAY);
   });
 };
